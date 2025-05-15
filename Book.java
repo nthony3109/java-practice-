@@ -1,6 +1,5 @@
 package GitPush;
 
-import java.math.BigInteger;
 import java.util.List;
 
 public class Book {
@@ -26,7 +25,7 @@ public class Book {
         System.out.println(Author);
          return Author;
     }
-    public BigInteger getISBNS (BigInteger ISBN) {
+    public String getISBNS (String ISBN) {
         return ISBN;
     }
     public void setAuthor(String author) {

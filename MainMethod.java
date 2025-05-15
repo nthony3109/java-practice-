@@ -1,11 +1,10 @@
 package GitPush;
 
-import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Ass {
+public class MainMethod {
     public static void main(String[] args) {
        List<Book> bookArr = new ArrayList<>();
       // Book book = new Book(null, null, 0);
